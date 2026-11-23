@@ -6,3 +6,4 @@
 echo "Hello, Welcome to my DevOps project"
 echo "I am learning Linux, Git, Github and DevOps"
 echo "This is my first Bash script".
+echo "Devops starts here"
